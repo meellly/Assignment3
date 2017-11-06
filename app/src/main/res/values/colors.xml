@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495E</color>
+    <color name="colorSecondary">#16A085</color>
+    <color name="colorText">#ECF0F1</color>
+
+    <color name="buttonDefaultOther">#95A5A6</color>
+    <color name="buttonPressedOther">#7F8A8B</color>
+    <color name="buttonFocusedOther">#B3BFBF</color>
+
+    <color name="buttonDefaultMain">#2980B9</color>
+    <color name="buttonPressedMain">#145F8F</color>
+    <color name="buttonFocusedMain">#539ECF</color>
+
+    <color name="buttonDefaultEdit">#F39C12</color>
+    <color name="buttonPressedEdit">#DC8C0D</color>
+    <color name="buttonFocusedEdit">#F5B144</color>
+
+    <color name="buttonDefaultDelete">#C0392B</color>
+    <color name="buttonPressedDelete">#A62517</color>
+    <color name="buttonFocusedDelete">#D95C4F</color>
+
+    <!--NOT USED-->
+    <color name="colorPrimaryDark">#34495E</color>
+    <color name="colorAccent">#ECF0F1</color>
+
+</resources>
